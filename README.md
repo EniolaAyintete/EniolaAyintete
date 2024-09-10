@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eniola Ayintete
 - 👀 I’m interested in Data analyst/science 
-- 🌱 I have learnt everything about Data Analyst
+- 🌱 I have learnt everything about Data Analysis
 - 💞️ I’m looking to collaborate on any Data science job
 - 📫 How to reach me 07039678014/ eniolayintete@gmail.com
 - 😄 Pronouns: he/him
